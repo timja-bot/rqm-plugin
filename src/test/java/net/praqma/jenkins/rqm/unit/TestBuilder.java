@@ -23,7 +23,7 @@
  */
 package net.praqma.jenkins.rqm.unit;
 
-import com.gargoylesoftware.htmlunit.html.HtmlPage;
+import org.htmlunit.html.HtmlPage;
 import hudson.model.AbstractBuild;
 import hudson.model.FreeStyleBuild;
 import hudson.model.FreeStyleProject;
